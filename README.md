@@ -13,7 +13,7 @@ The release data itself (texts) can be downloaded from [Zenodo](https://zenodo.o
 
 ## To install the metadata reader: 
 
-Download the [metadata repo](https://github.com/OpenITI/release_2019_1_metadata), unzip it, and copy the `search_metadata.html` file and the `metadata` folder to the root folder `OpenITI_2019_1_1` of the unzipped release folder. Both should be at the same level as the `data` folder that contains the texts: 
+Download the [metadata repo](https://github.com/OpenITI/release_2019_1_metadata), unzip it, and copy the `search_metadata.html` file and the `metadata` folder to the root folder `OpenITI_2019_1_1` of the unzipped release folder. Both should be at the same level as the `data` folder, which contains the text files: 
 ```
 OpenITI_2019_1_1
     \- data
