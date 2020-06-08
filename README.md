@@ -4,9 +4,12 @@ Use this metadata reader to search the metadata of this OpenITI release.
 If correctly installed within the folder that contains the release data, 
 links in the metadata reader will lead to the files you were searching. 
 
+If not installed within the release folder, the metadata reader 
+will still work, but links will not function. 
+
 ## Release data: 
 
-The release data (texts) itself can be downloaded from [Zenodo](https://zenodo.org/record/3082464#.Xt3s2zozZPY)
+The release data itself (texts) can be downloaded from [Zenodo](https://zenodo.org/record/3082464#.Xt3s2zozZPY)
 
 ## To install the metadata reader: 
 
